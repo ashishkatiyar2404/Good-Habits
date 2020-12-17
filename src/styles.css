@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0 auto;
+  background: whitesmoke;
+}
+.main1 {
+  width: 40%;
+  margin: 0 auto;
+}
+.main2 {
+  font-family: "Noto Serif", serif;
+  border-radius: 2px;
+}
